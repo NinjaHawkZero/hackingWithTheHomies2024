@@ -1,7 +1,7 @@
 # hwthdc2024
 
 
-API Development Slides: https://docs.google.com/presentation/d/1hDq0KaGLsk8thFeBNIX86U2Wa_htJmFGYnwJSJ2yKYM/edit?usp=sharing
+[API Development Slides](https://docs.google.com/presentation/d/1hDq0KaGLsk8thFeBNIX86U2Wa_htJmFGYnwJSJ2yKYM/edit?usp=sharing)
 ---
 
 Step 1: Download Node JS and Postman Desktop Agent
